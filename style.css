@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-area{
+    text-align: center;
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+    height: 500px;
+    color: aliceblue;
+    
+}
+.header-area h1{
+    font-size: 40px;
+}
+.header-area p{
+    font-size: 15px;
+    color: ghostwhite;
+}
+a{
+    text-decoration: none;
+    background-color: rgb(0, 157, 255);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 5px;
+}
+
+.donate-today{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.donate-today p{
+   color: #797777;
+   font-size: 20px;
+    
+}
+.donate-amount{
+    display: flex;
+    margin-bottom: 100px;
+    
+}
+h3{
+    color: #646464;
+    margin-left: 80px;
+    background-color: #f4f3f3;
+    font-size: 25px;
+    padding: 35px 35px;
+}
+.diff-bg{
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border: 1px solid #FF5959;
+}
+small{
+    color: #B3B3B3;
+    font-size: 18px;
+}
+hr{
+    
+    width: 90%;
+}
+h1{
+    font-size: 35px;
+}
+.donate-plan{
+    display: flex;
+    margin-top: 100px;
+    margin: 50px;
+    gap: 50px;
+    text-align: left;
+}
+.food{
+    background-color: #d5e4eb;
+    padding: 50px;
+}
+.shelter{
+    background-color: #ffe1e1;
+    padding: 50px;
+}
+.education{
+   background-color: rgb(253, 253, 191);
+   padding: 50px;
+}
